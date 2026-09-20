@@ -17,7 +17,7 @@ Open `index.html` in a browser or use VS Code Live Server. No build step require
 - NotesAI-RNA: https://richardnzembe.github.io/NotesAI-RNA/
 - RIVET: https://retail-ledger.pages.dev/
 - Airtime Scanner: https://richardnzembe.github.io/Airtime-scanner-updates/ (app download page)
-- Qraft — QR Code Generator: https://richardnzembe.github.io/qr-code-generator/ · [Source code](https://github.com/Richardnzembe/qr-code-generator)
+- qranzie — QR Code Generator: https://richardnzembe.github.io/qr-code-generator/ · [Source code](https://github.com/Richardnzembe/qr-code-generator)
 - RIVET Software Manager: text-only companion project; no screenshot or admin URL published.
 
 The CV remains marked as coming soon until an actual PDF is supplied.
@@ -31,5 +31,5 @@ The CV PDF is at assets/cv/Richard-Nzembe-CV.pdf and both CV buttons link to it 
 ## Contact details (v1.5)
 Portfolio contact section and CV now include nzemberichard398@gmail.com and +263 779 019 896. The phone link uses tel:+263779019896.
 
-## Qraft project (v1.6)
-Added Qraft as the fourth completed project, using the supplied application screenshot and its existing logo. The card describes phone and contact-card QR codes, social links, logo customization, and PNG/SVG/VCF downloads. Both the live application and public source repository are linked.
+## qranzie project (v1.6)
+Added qranzie as the fourth completed project, using the supplied application screenshot and its existing logo. The card describes phone and contact-card QR codes, social links, logo customization, and PNG/SVG/VCF downloads. Both the live application and public source repository are linked.
