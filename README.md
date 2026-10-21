@@ -15,7 +15,7 @@ Open `index.html` in a browser or use VS Code Live Server. No build step require
 
 ## Project links (v1.2)
 - NotesAI-RNA: https://richardnzembe.github.io/NotesAI-RNA/
-- RIVET: https://retail-ledger.pages.dev/
+- RIVET — Retail Operations: https://retail-ledger.pages.dev/ · POS, cashier shifts and cash movements, expense management, payroll and payslips, and reconciliation reporting.
 - Airtime Scanner: https://richardnzembe.github.io/Airtime-scanner-updates/ (app download page)
 - qranzie — QR Code Generator: https://richardnzembe.github.io/qr-code-generator/ · [Source code](https://github.com/Richardnzembe/qr-code-generator)
 - RIVET Software Manager: text-only companion project; no screenshot or admin URL published.
