@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Interactive e-learning platform logo">
+  <rect width="96" height="96" rx="22" fill="#0f3b25"/>
+  <g fill="none" stroke="#f3b63c" stroke-width="3.4" stroke-linecap="round">
+    <path d="M48 26V17"/>
+    <path d="M34 29l-6-6"/>
+    <path d="M62 29l6-6"/>
+    <path d="M28 37h-9"/>
+    <path d="M68 37h9"/>
+  </g>
+  <circle cx="48" cy="39" r="8.5" fill="#f3b63c"/>
+  <path d="M48 50c-6.5-4.6-14.5-5.9-21-4.2v27c6.5-1.7 14.5-.4 21 4.2V50z" fill="#f8f4e9"/>
+  <path d="M48 50c6.5-4.6 14.5-5.9 21-4.2v27c-6.5-1.7-14.5-.4-21 4.2V50z" fill="#f8f4e9"/>
+  <path d="M48 50v27" stroke="#0f3b25" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
