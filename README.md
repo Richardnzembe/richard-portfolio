@@ -19,7 +19,7 @@ Open `index.html` in a browser or use VS Code Live Server. No build step require
 - Airtime Scanner: https://as.richardn.online/ (app download page)
 - qranzie — QR Code Generator: https://myqr.richardn.online/ · [Source code](https://github.com/Richardnzembe/qr-code-generator)
 - ON B — School Portal: https://onb.richardn.online/login · learning organization portal for programs, memberships, applications, results and certificates.
-- Interactive E-Learning Platform: e-learning website for a life and business institute; screenshot card, live link pending.
+- Interactive E-Learning Platform: https://www.dlife.online/index.html · e-learning website for a life and business institute.
 - RIVET Software Manager: text-only companion project; no screenshot or admin URL published.
 
 The CV remains marked as coming soon until an actual PDF is supplied.
@@ -40,4 +40,7 @@ Added qranzie as the fourth completed project, using the supplied application sc
 Added ON B — School Portal as the fifth completed project with the supplied sign-in screenshot and a new brand mark, linked to https://onb.richardn.online/login. Added Edvance: Interactive E-Learning Platform as the sixth card; it is text-only with a typographic placeholder until a public screenshot and live link are supplied. Updated the RIVET, Airtime Scanner and qranzie live links to their richardn.online subdomains.
 
 ## Projects section redesign (v1.8)
-Renamed the sixth project to Interactive E-Learning Platform and replaced its placeholder with the supplied Dalswin e-learning screenshot and a matching brand mark; its live link is still pending. Added a professional animation layer to the projects section: drifting ambient glows, a shimmering heading accent, staggered scroll-reveal cards, a pointer-tracking spotlight, hover lift and image zoom. All motion is disabled for visitors who prefer reduced motion.
+Renamed the sixth project to Interactive E-Learning Platform and replaced its placeholder with the supplied Dalswin e-learning screenshot and a matching brand mark. Added a professional animation layer to the projects section: drifting ambient glows, a shimmering heading accent, staggered scroll-reveal cards, a pointer-tracking spotlight, hover lift and image zoom. All motion is disabled for visitors who prefer reduced motion.
+
+## Services page (v1.9)
+Added services.html, a full services page covering ten offers: website development, custom software, AI solutions, computer training, educational technology, IT support, digital business systems, graphic design, branding and digital marketing. It also includes the five-step delivery process and a contact call to action. Added a SERVICES link to the main navigation, linked the Interactive E-Learning Platform card to https://www.dlife.online/index.html, and reused the site-wide scroll-reveal and hover motion with reduced-motion support.
