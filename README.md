@@ -12,6 +12,8 @@ Open `index.html` in a browser or use VS Code Live Server. No build step require
 - Add a verified contact email and social links when ready.
 - Confirm that all project descriptions and skills reflect your current work.
 
+The primary contact email is hello@richardn.online, with nzemberichard398@gmail.com kept as a secondary address.
+
 
 ## Project links (v1.2)
 - NotesAI-RNA: https://richardnzembe.github.io/NotesAI-RNA/
@@ -31,7 +33,7 @@ The Education section displays the exact professional certificate title, Harvard
 The CV PDF is at assets/cv/Richard-Nzembe-CV.pdf and both CV buttons link to it with the download attribute. No email or phone was invented; add verified contact details before publishing.
 
 ## Contact details (v1.5)
-Portfolio contact section and CV now include nzemberichard398@gmail.com and +263 779 019 896. The phone link uses tel:+263779019896.
+Portfolio contact section and CV now include hello@richardn.online, nzemberichard398@gmail.com and +263 779 019 896. The phone link uses tel:+263779019896.
 
 ## qranzie project (v1.6)
 Added qranzie as the fourth completed project, using the supplied application screenshot and its existing logo. The card describes phone and contact-card QR codes, social links, logo customization, and PNG/SVG/VCF downloads. Both the live application and public source repository are linked.
@@ -44,3 +46,6 @@ Renamed the sixth project to Interactive E-Learning Platform and replaced its pl
 
 ## Services page (v1.9)
 Added services.html, a full services page covering ten offers: website development, custom software, AI solutions, computer training, educational technology, IT support, digital business systems, graphic design, branding and digital marketing. It also includes the five-step delivery process and a contact call to action. Added a SERVICES link to the main navigation, linked the Interactive E-Learning Platform card to https://www.dlife.online/index.html, and reused the site-wide scroll-reveal and hover motion with reduced-motion support.
+
+## Contact and visual polish (v2.0)
+Added hello@richardn.online across the portfolio contact section, hero links, footer, services call to action and services PDF. Redesigned the contact section with an availability badge, a prominent email card and direct phone/GitHub tiles. Polished the shared design with a sticky glass header, scroll progress bar, active-section navigation, button shine, gradient heading accents, indexed skill rows, an education timeline, a CV display panel and subtle ambient glows. Desktop, mobile and reduced-motion layouts verified.
